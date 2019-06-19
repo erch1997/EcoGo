@@ -1,10 +1,10 @@
 # EcoGo Mobile Web App
 
 # Developers
-Cho   Claire
-Chiu  Eric
-Kim	  Emily
-Wang	Kang
+Cho   Claire,
+Chiu  Eric,
+Kim	  Emily,
+Wang	Kang,
 Suen	Ringo
 
 # Link
